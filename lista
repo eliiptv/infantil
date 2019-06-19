@@ -1,102 +1,102 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV" tvg-logo="http://img.starbr.in/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="Infantil",BABY TV
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/11970
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/11970
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV HD" tvg-logo="http://img.starbr.in/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="Infantil",BABY TV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20796
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20796
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="http://img.starbr.in/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="Infantil",BOOMERANG
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1102
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1102
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG HD" tvg-logo="http://img.starbr.in/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="Infantil",BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20801
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20801
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="http://img.starbr.in/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="Infantil",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1095
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1095
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK FULL HD" tvg-logo="http://img.starbr.in/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="Infantil",CARTOON NETWORK FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26032
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26032
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.starbr.in/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="Infantil",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2479
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2479
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="Infantil",DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1080
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1080
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS FULL HD" tvg-logo="http://img.starbr.in/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="Infantil",DISCOVERY KIDS FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26025
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26025
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://img.starbr.in/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="Infantil",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5081
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5081
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD 1" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="Infantil",DISNEY CHANNEL HD 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38438
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38438
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD 2" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="Infantil",DISNEY CHANNEL HD 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5082
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5082
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD+" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="Infantil",DISNEY CHANNEL HD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38762
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38762
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="Infantil",DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38763
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38763
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL SD+" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="Infantil",DISNEY CHANNEL SD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1071
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1071
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR FULL HD" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="Infantil",DISNEY JR FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26021
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26021
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR HD" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="Infantil",DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20809
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20809
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR SD 1" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="Infantil",DISNEY JR SD 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38783
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38783
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR SD 2" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="Infantil",DISNEY JR SD 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1068
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1068
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR SD+" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="Infantil",DISNEY JR SD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38441
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38441
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="Infantil",DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20810
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20810
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD+" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="Infantil",DISNEY XD HD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38760
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38760
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD 1" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="Infantil",DISNEY XD SD 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38761
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38761
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD 2" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="Infantil",DISNEY XD SD 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1065
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1065
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD+" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="Infantil",DISNEY XD SD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38440
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38440
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="Infantil",GLOOB HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5086
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5086
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD 1" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="Infantil",GLOOB SD 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38719
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38719
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD 2" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="Infantil",GLOOB SD 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38718
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38718
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD 3" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="Infantil",GLOOB SD 3
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38717
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38717
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD 4" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="Infantil",GLOOB SD 4
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1023
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1023
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD+" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="Infantil",GLOOB SD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/28406
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/28406
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO HD" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17136
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/17136
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO SD 1" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO SD 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38723
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38723
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO SD 2" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO SD 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38724
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38724
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO SD 3" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO SD 3
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38725
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/38725
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO SD 4" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO SD 4
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17135
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/17135
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO SD+" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="Infantil",GLOOBINHO SD+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/23976
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/23976
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS" tvg-logo="http://img.starbr.in/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="Infantil",NATGEO KIDS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/11965
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/11965
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS HD" tvg-logo="http://img.starbr.in/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="Infantil",NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/11996
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/11996
 #EXTINF:-1 tvg-id="Nick" tvg-name="NICK" tvg-logo="http://img.starbr.in/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="Infantil",NICK
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1206
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1206
 #EXTINF:-1 tvg-id="Nick" tvg-name="NICK FULL HD" tvg-logo="http://img.starbr.in/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="Infantil",NICK FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26015
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26015
 #EXTINF:-1 tvg-id="Nick" tvg-name="NICK HD" tvg-logo="http://img.starbr.in/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="Infantil",NICK HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5093
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5093
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" tvg-logo="http://img.starbr.in/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="Infantil",NICK JR
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/986
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/986
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR HD" tvg-logo="http://img.starbr.in/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="Infantil",NICK JR HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16210
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/16210
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="http://img.starbr.in/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="Infantil",TOONCAST
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/919
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/919
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://img.starbr.in/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="Infantil",TOONCAST HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17974
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/17974
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM" tvg-logo="http://img.starbr.in/1516363809_4b06002618c33f47714df184c93b0319e70927cf.png" group-title="Infantil",TV RA TIM BUM
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2506
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2506
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM HD" tvg-logo="http://img.starbr.in/1516363809_4b06002618c33f47714df184c93b0319e70927cf.png" group-title="Infantil",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20822
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20822
 #EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO" tvg-logo="http://img.starbr.in/1552702663_f61447b342a10faac0e1eda77897dcbe4a992041.png" group-title="Infantil",ZOOMOO
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20833
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20833
 #EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO HD" tvg-logo="http://img.starbr.in/1552702663_f61447b342a10faac0e1eda77897dcbe4a992041.png" group-title="Infantil",ZOOMOO HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20834
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20834
 
